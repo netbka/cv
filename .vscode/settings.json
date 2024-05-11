@@ -1,0 +1,21 @@
+{
+  "editor.foldingStrategy": "indentation",
+  "html.format.indentInnerHtml": false,
+  "editor.codeActionsOnSave": {},
+  "notebook.codeActionsOnSave": {},
+  "editor.inlineCompletionsAccessibilityVerbose": true,
+  "editor.formatOnSave": true,
+  "emmet.showSuggestionsAsSnippets": true,
+  "files.autoSave": "afterDelay",
+  "tailwindCSS.experimental.classRegex": [
+    "tw`(.*?)`",
+    "tw\\('(.*?)'\\)",
+    "tw\\(\\s*('(.*?)'|\"(.*?)\")\\s*\\)"
+  ],
+  "files.associations": {
+    "*.css": "tailwindcss"
+  },
+  "editor.quickSuggestions": {
+    "strings": true
+  }
+}
