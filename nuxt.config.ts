@@ -5,11 +5,19 @@ export default defineNuxtConfig({
   devServer: {
     port: 1234,
   },
-
+  // build: {
+  //   extractCSS: true,
+  // },
   target: "static",
   ssr: true,
-  modules: ["@nuxtjs/tailwindcss"],
+  modules: ["@nuxtjs/tailwindcss", "@nuxt/image"],
   css: ["~/assets/css/global.css"],
+  image: {
+    screens: {
+      md: 576,
+      lg: 1024,
+    },
+  },
   app: {
     head: {
       title: "Peter Mamrukov | CV",
