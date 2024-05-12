@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"notebook.codeActionsOnSave": {},
+		"emmet.showSuggestionsAsSnippets": true,
+		"files.associations": {
+			"*.css": "tailwindcss"
+		}
+	}
+}

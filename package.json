@@ -1,5 +1,5 @@
 {
-  "name": "nuxt-app",
+  "name": "peter-mamrukov-cv",
   "private": true,
   "type": "module",
   "scripts": {
@@ -15,5 +15,8 @@
     "nuxt": "^3.11.2",
     "vue": "^3.4.27",
     "vue-router": "^4.3.2"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.5"
   }
 }

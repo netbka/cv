@@ -11,7 +11,7 @@ module.exports = {
     },
 
     fontFamily: {
-      sans: ["Graphik", "sans-serif"],
+      sans: [" system-ui", "sans-serif"],
       serif: ["Merriweather", "serif"],
     },
     extend: {

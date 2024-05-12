@@ -22,9 +22,9 @@
     </div>
     <div class="mt-4 rounded-lg bg-background p-4 text-left">
       <p class="text-sm">
-        Senior IT Executive with 15+ years in managing R&D, maintaining reliable
-        infrastructure and deliverying complex projects for Global Insurance, MedTech, and
-        Tech companies.
+        Hands-on Technology Executive with 15 years of experience in managing R&D,
+        maintaining reliable infrastructure and deliverying complex projects for Global
+        Insurance, MedTech, and Tech companies.
       </p>
       <div class="flex flex-wrap mt-2 text-xs gap-2 text-center">
         <div
