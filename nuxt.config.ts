@@ -8,12 +8,21 @@ export default defineNuxtConfig({
   devServer: {
     port: 1234,
   },
+
   // build: {
   //   extractCSS: true,
   // },
   target: "static",
   ssr: true,
-  modules: ["@nuxtjs/tailwindcss", "@nuxt/image"],
+  modules: [
+    "@nuxtjs/tailwindcss",
+    "@nuxt/image",
+    "@nuxtjs/robots",
+    "nuxt-gtag",
+  ],
+  gtag: {
+    id: "G-GSJS38LRM7",
+  },
   css: ["~/assets/css/global.css"],
   image: {
     screens: {

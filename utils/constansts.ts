@@ -31,7 +31,7 @@ export const experienceArray: ExperienceArr = [
     location: "Israel, Airport city",
     duration: "Jul 2022 - Feb 2024",
     description:
-      "Headed a team of 4 network engineers to support IT infrastructure in 5G software development lab.",
+      "Headed a team of 4 engineers supporting IT infrastructure and developing software in 5G lab.",
     achievements: [
       // "Executed delivery of laboratory x3 growth without headcount increase",
       // "Developed web based solution for lab management",
@@ -45,7 +45,7 @@ export const experienceArray: ExperienceArr = [
     location: "Russia, Moscow",
     duration: "Jun 2021 - Apr 2022",
     description:
-      "Headed digital transformation for sales and client service processes and maintained critical production systems for global insurance company. Team of 35 engineers. ",
+      "Headed digital transformation and software development for sales and client service processes. Maintained critical production systems for global insurance company. Team of 35 engineers. ",
     achievements: [
       // "Integrated of ERP (Ms Dynamics) with sales and client service systems",
       // "Reduced OPEX/CAPEX by 25% negotiating new terms with vendors and suppliers",
@@ -59,7 +59,7 @@ export const experienceArray: ExperienceArr = [
     location: "Russia, Moscow",
     duration: "Feb 2020 - Jun 2021",
     description:
-      "Led transformation of IT infrastructure, production systems and ERP merger post-acquisition of 3 companies. ",
+      "Led consolidation of IT infrastructure, production systems and ERP merger post-acquisition of 3 companies. ",
     achievements: [],
   },
   {
@@ -70,13 +70,13 @@ export const experienceArray: ExperienceArr = [
     location: "Russia, Moscow",
     duration: "Aug 2018 - Apr 2022",
     description:
-      "Led IT operations for MedTech companies delivering medical reporting. Developed AI-based algorithm for ECG recognition increasing reporting throughput by 70%. Headed a team of 10 developers.",
+      "Led IT operations for MedTech companies delivering medical reporting. Developed AI-based algorithm for ECG recognition. Headed a team of 10 developers.",
     achievements: [],
   },
   {
     companylogo: "rsm.webp",
     jobname: "Head of IT",
-    industry: "Consulting / Software development",
+    industry: "IT Consulting Services",
     companyname: "RSM RUS",
     location: "Russia, Moscow",
     duration: "Sep 2008 - Aug 2018",

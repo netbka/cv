@@ -6,9 +6,11 @@
     <div class="w-full">
       <div class="flex justify-between mt-1">
         <h3 class="font-semibold text-sm">{{ data.jobname }}</h3>
-        <span class="p-1.5 bg-accent text-xs rounded-md">{{ data.industry }}</span>
+        <span class="p-1.5 bg-accent text-xs rounded-md max-h-7">{{
+          data.industry
+        }}</span>
       </div>
-      <div class="flex flex-row gap-6">
+      <div class="flex flex-row flex-wrap gap-x-6 lg:gap-x-3">
         <div class="flex">
           <NuxtImg src="work.svg" height="14px" width="14px"></NuxtImg>
           <span class="p-0.5 text-xs">{{ data.companyname }}</span>
