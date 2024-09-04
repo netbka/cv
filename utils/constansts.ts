@@ -1,5 +1,12 @@
 export const skillArray = () => {
-  return [".Net Core", "JavaScript", "Vue.JS", "Nuxt", "SQL", "Git"];
+  return [
+    "Infrastructure",
+    "ERP change",
+    "Cyber Security",
+    "IT Strategy",
+    "Budgeting",
+    "Project Mgmt",
+  ];
 };
 
 export const contactsArray = () => {
@@ -68,9 +75,9 @@ export const experienceArray: ExperienceArr = [
     industry: "MedTech",
     companyname: "Medme",
     location: "Russia, Moscow",
-    duration: "Aug 2018 - Apr 2022",
+    duration: "Aug 2018 - Apr 2020",
     description:
-      "Led IT operations for MedTech companies delivering medical reporting. Developed AI-based algorithm for ECG recognition. Headed a team of 10 developers.",
+      "Led IT operations for MedTech companies delivering medical reporting. Developed AI-based algorithm for ECG recognition. Formulated development plan for regional CTO's.",
     achievements: [],
   },
   {
